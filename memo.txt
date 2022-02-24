@@ -1,0 +1,4 @@
+프론트 부분 시작할떄 
+1. 추가 모듈 설치(concurrently, toastify, redux-toolkit, react-redux, axios)
+2. 더미 데이터 구축하기 
+3. redux-toolkit 구축하기()
